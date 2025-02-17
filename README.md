@@ -1,3 +1,4 @@
+You can access the Bot using the given link - https://optimus-bot-rp5bpvkywud3hmvt8wzeu3.streamlit.app/
 # 🚀 Chatbot using Google Gemini-Pro and Streamlit
 
 ## Overview
